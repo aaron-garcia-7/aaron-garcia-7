@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Aaron Garcia @aaron-garcia-7.
-- 🙌 I like buildling websites that leave lasting impresssions. Currently working to become a full-stack (MERN) developer.
+- 💻 I like buildling websites that leave lasting impresssions. Currently working to become a full-stack (MERN) developer.
 - 💡 I’m learning NEXTjs, TypeScript, Nodejs, and Express. I'll eventually get to Tailwind CSS and MongoDB/Mongoose.
-- 💻 I’m looking to get hired as a front-end developer, and would love to collaborate in bringing user-friendly websites to life!
+- 🤝 I’m looking to get hired as a front-end developer, and would love to collaborate in bringing user-friendly websites to life!
 - 📫 To reach me -> email: aaronegarcia1@gmail.com or website: aarongarciacreative.com.
 
 <!---

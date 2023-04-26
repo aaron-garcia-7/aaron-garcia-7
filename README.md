@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Aaron Garcia @aaron-garcia-7.
 - 💻 I like building websites that leave lasting impressions. Aspiring full-stack (MERN) developer.
 - 💡 Learning NEXTjs, TypeScript, Nodejs, and Express. I'll eventually get to Tailwind CSS and MongoDB/Mongoose.
-- 🤝 I’m currently working with some of the best in the event industry at RainFocus.
+- 🤝 I’m currently working with team of talented developers at RainFocus.
 - 📫 To reach me -> email: aaronegarcia1@gmail.com or website: aarongarciacreative.com.
 
 <!---
